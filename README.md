@@ -10,4 +10,3 @@ Repository created for studies in the area of Machine Learning and Neural Networ
 1. [Dive Into Deep Learning](https://d2l.ai/index.html)
 
 
-
