@@ -8,5 +8,4 @@ Repository created for studies in the area of Machine Learning and Neural Networ
 1. [Programa de cursos integrados Aprendizagem profunda](https://www.coursera.org/specializations/deep-learning)
 1. [Goodfellow, I., Deep Learning Book](https://www.deeplearningbook.org/), 2016.
 1. [Dive Into Deep Learning](https://d2l.ai/index.html)
-   
 
